@@ -1,4 +1,5 @@
 # quizzical_v1
+Quiz app built with TS, React.Js and it's extension react-router
 
 ### To run localy:
 
